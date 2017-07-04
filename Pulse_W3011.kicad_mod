@@ -1,4 +1,4 @@
-(module Pulse_W3011 (layer F.Cu) (tedit 5943CEC3)
+(module Pulse_W3011 (layer F.Cu) (tedit 595B9CA6)
   (descr "Pulse RF Antenna, 4mm Clearance")
   (tags "antenna rf")
   (attr smd)
@@ -36,7 +36,7 @@
   (pad 2 smd trapezoid (at 0.5 -1.6 90) (size 0.8 0.65) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd trapezoid (at -0.5 -1.6 90) (size 0.8 0.65) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd trapezoid (at 0 1.6 90) (size 0.8 1.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/RF_Modules.3dshapes/Pulse_W3011.wrl
+  (model ${KISYS3DMOD}/RF_Antennas.3dshapes/Pulse_W3011.wrl
     (at (xyz -0.0196850394 0.062992126 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
