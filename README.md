@@ -1,2 +1,2 @@
-# RF_Antennas.pretty
-Footprints for Radio Frequency Antennas
+# Antennas.pretty
+Footprints for various antennas
